@@ -1,6 +1,7 @@
 import useData from "./useData";
 
 interface Platform {
+  // Platform object has 3 properties
   id: number;
   name: string;
   slug: string;
