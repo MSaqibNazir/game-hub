@@ -4,7 +4,8 @@ export default [
     name: "Action",
     slug: "action",
     games_count: 172872,
-    image_background: "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg",
+    image_background:
+      "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg",
     games: [
       {
         id: 3498,
@@ -49,7 +50,8 @@ export default [
     name: "Indie",
     slug: "indie",
     games_count: 53235,
-    image_background: "https://media.rawg.io/media/games/0be/0bea0a08a4d954337305391b778a7f37.jpg",
+    image_background:
+      "https://media.rawg.io/media/games/0be/0bea0a08a4d954337305391b778a7f37.jpg",
     games: [
       {
         id: 1030,
@@ -94,7 +96,8 @@ export default [
     name: "Adventure",
     slug: "adventure",
     games_count: 132652,
-    image_background: "https://media.rawg.io/media/games/709/709bf81f874ce5d25d625b37b014cb63.jpg",
+    image_background:
+      "https://media.rawg.io/media/games/709/709bf81f874ce5d25d625b37b014cb63.jpg",
     games: [
       {
         id: 3498,
@@ -139,7 +142,8 @@ export default [
     name: "RPG",
     slug: "role-playing-games-rpg",
     games_count: 52541,
-    image_background: "https://media.rawg.io/media/games/3cf/3cff89996570cf29a10eb9cd967dcf73.jpg",
+    image_background:
+      "https://media.rawg.io/media/games/3cf/3cff89996570cf29a10eb9cd967dcf73.jpg",
     games: [
       {
         id: 3328,
@@ -184,7 +188,8 @@ export default [
     name: "Strategy",
     slug: "strategy",
     games_count: 52747,
-    image_background: "https://media.rawg.io/media/games/e4a/e4ab7f784bdc38c76ce6e4cef9715d18.jpg",
+    image_background:
+      "https://media.rawg.io/media/games/e4a/e4ab7f784bdc38c76ce6e4cef9715d18.jpg",
     games: [
       {
         id: 13633,
@@ -229,7 +234,8 @@ export default [
     name: "Shooter",
     slug: "shooter",
     games_count: 59311,
-    image_background: "https://media.rawg.io/media/games/328/3283617cb7d75d67257fc58339188742.jpg",
+    image_background:
+      "https://media.rawg.io/media/games/328/3283617cb7d75d67257fc58339188742.jpg",
     games: [
       {
         id: 4200,
@@ -274,7 +280,8 @@ export default [
     name: "Casual",
     slug: "casual",
     games_count: 45053,
-    image_background: "https://media.rawg.io/media/screenshots/054/054bf49d9e736edfda5aa8e9015faf9b.jpeg",
+    image_background:
+      "https://media.rawg.io/media/screenshots/054/054bf49d9e736edfda5aa8e9015faf9b.jpeg",
     games: [
       {
         id: 9721,
@@ -319,7 +326,8 @@ export default [
     name: "Simulation",
     slug: "simulation",
     games_count: 65832,
-    image_background: "https://media.rawg.io/media/games/25c/25c4776ab5723d5d735d8bf617ca12d9.jpg",
+    image_background:
+      "https://media.rawg.io/media/games/25c/25c4776ab5723d5d735d8bf617ca12d9.jpg",
     games: [
       {
         id: 10035,
@@ -364,7 +372,8 @@ export default [
     name: "Puzzle",
     slug: "puzzle",
     games_count: 97087,
-    image_background: "https://media.rawg.io/media/games/6fc/6fcb1c529c764700d55f3bbc1b0fbb5b.jpg",
+    image_background:
+      "https://media.rawg.io/media/games/6fc/6fcb1c529c764700d55f3bbc1b0fbb5b.jpg",
     games: [
       {
         id: 4200,
@@ -409,7 +418,8 @@ export default [
     name: "Arcade",
     slug: "arcade",
     games_count: 22558,
-    image_background: "https://media.rawg.io/media/games/19a/19a512a8c1293c22894b7364e1405ec1.jpg",
+    image_background:
+      "https://media.rawg.io/media/games/19a/19a512a8c1293c22894b7364e1405ec1.jpg",
     games: [
       {
         id: 3612,
@@ -454,7 +464,8 @@ export default [
     name: "Platformer",
     slug: "platformer",
     games_count: 100585,
-    image_background: "https://media.rawg.io/media/games/85c/85c8ae70e7cdf0105f06ef6bdce63b8b.jpg",
+    image_background:
+      "https://media.rawg.io/media/games/85c/85c8ae70e7cdf0105f06ef6bdce63b8b.jpg",
     games: [
       {
         id: 1030,
@@ -499,7 +510,8 @@ export default [
     name: "Massively Multiplayer",
     slug: "massively-multiplayer",
     games_count: 3242,
-    image_background: "https://media.rawg.io/media/games/4ea/4ea507ceebeabb43edbc09468f5aaac6.jpg",
+    image_background:
+      "https://media.rawg.io/media/games/4ea/4ea507ceebeabb43edbc09468f5aaac6.jpg",
     games: [
       {
         id: 32,
@@ -544,7 +556,8 @@ export default [
     name: "Racing",
     slug: "racing",
     games_count: 24011,
-    image_background: "https://media.rawg.io/media/games/7cf/7cf38d2d80267c121c6d0d361e9429ce.jpg",
+    image_background:
+      "https://media.rawg.io/media/games/7cf/7cf38d2d80267c121c6d0d361e9429ce.jpg",
     games: [
       {
         id: 3272,
@@ -589,7 +602,8 @@ export default [
     name: "Sports",
     slug: "sports",
     games_count: 20595,
-    image_background: "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg",
+    image_background:
+      "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg",
     games: [
       {
         id: 3272,
@@ -634,7 +648,8 @@ export default [
     name: "Fighting",
     slug: "fighting",
     games_count: 11696,
-    image_background: "https://media.rawg.io/media/games/234/23410661770ae13eac11066980834367.jpg",
+    image_background:
+      "https://media.rawg.io/media/games/234/23410661770ae13eac11066980834367.jpg",
     games: [
       {
         id: 17540,
@@ -679,7 +694,8 @@ export default [
     name: "Family",
     slug: "family",
     games_count: 5386,
-    image_background: "https://media.rawg.io/media/games/3c1/3c139f67a73f0bf5ce0d8f2abf83c0d0.jpg",
+    image_background:
+      "https://media.rawg.io/media/games/3c1/3c139f67a73f0bf5ce0d8f2abf83c0d0.jpg",
     games: [
       {
         id: 3254,
@@ -724,7 +740,8 @@ export default [
     name: "Board Games",
     slug: "board-games",
     games_count: 8308,
-    image_background: "https://media.rawg.io/media/games/bf5/bf57458ef8360854c8bb3599a42ef58f.jpg",
+    image_background:
+      "https://media.rawg.io/media/games/bf5/bf57458ef8360854c8bb3599a42ef58f.jpg",
     games: [
       {
         id: 23557,
@@ -769,7 +786,8 @@ export default [
     name: "Educational",
     slug: "educational",
     games_count: 15642,
-    image_background: "https://media.rawg.io/media/games/f12/f1256901fe7ba1fd8067e289a3eaccc8.jpg",
+    image_background:
+      "https://media.rawg.io/media/games/f12/f1256901fe7ba1fd8067e289a3eaccc8.jpg",
     games: [
       {
         id: 1358,
@@ -814,7 +832,8 @@ export default [
     name: "Card",
     slug: "card",
     games_count: 4494,
-    image_background: "https://media.rawg.io/media/games/891/8916b6d4d41c5931d1d5b6b1f525da7b.jpg",
+    image_background:
+      "https://media.rawg.io/media/games/891/8916b6d4d41c5931d1d5b6b1f525da7b.jpg",
     games: [
       {
         id: 23557,
